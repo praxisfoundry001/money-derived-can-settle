@@ -38,4 +38,4 @@ This artifact sits downstream of the Structural Flow economics foundation and al
 
 The archival PDF is available through Zenodo:
 
-**DOI:** [# money-derived-can-settle](https://doi.org/10.5281/zenodo.20651644)
+**DOI:** https://doi.org/10.5281/zenodo.20651644
